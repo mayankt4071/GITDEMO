@@ -1,0 +1,13 @@
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\bin\Debug\netcoreapp3.1\CaseStudyDemo.exe
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\bin\Debug\netcoreapp3.1\CaseStudyDemo.deps.json
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\bin\Debug\netcoreapp3.1\CaseStudyDemo.runtimeconfig.json
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\bin\Debug\netcoreapp3.1\CaseStudyDemo.runtimeconfig.dev.json
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\bin\Debug\netcoreapp3.1\CaseStudyDemo.dll
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\bin\Debug\netcoreapp3.1\CaseStudyDemo.pdb
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\obj\Debug\netcoreapp3.1\CaseStudyDemo.csprojAssemblyReference.cache
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\obj\Debug\netcoreapp3.1\CaseStudyDemo.AssemblyInfoInputs.cache
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\obj\Debug\netcoreapp3.1\CaseStudyDemo.AssemblyInfo.cs
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\obj\Debug\netcoreapp3.1\CaseStudyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\obj\Debug\netcoreapp3.1\CaseStudyDemo.dll
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\obj\Debug\netcoreapp3.1\CaseStudyDemo.pdb
+C:\Users\Sravya\source\repos\CaseStudyDemo\CaseStudyDemo\obj\Debug\netcoreapp3.1\CaseStudyDemo.genruntimeconfig.cache
